@@ -8,7 +8,7 @@ hamburgerButton.addEventListener('click', function () {
     hamburgerMenu.classList.add('active');
 });
 
-// 2. quando si clicca su "a.close" bisogna togliere la classe active
+// 2. quando si clicca su "a.close" bisogna togliere la classe active ad hamburger menu
 
 const closeButton = document.querySelector('a.close');
 
