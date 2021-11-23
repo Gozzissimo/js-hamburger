@@ -32,7 +32,7 @@ buttonSubscribe.addEventListener('click', function () {
     if (buttonSubscribeClass == "subscribed") {
         buttonSubscribe.classList.remove('subscribed');
     } else {
-        // buttonSubscribeClass.classList.add('subscribed');
+        buttonSubscribeClass.classList.add('subscribed');
 
         // NON FUNZIONA, CHIEDO INFO
     }
